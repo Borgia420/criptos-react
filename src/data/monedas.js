@@ -3,6 +3,10 @@ const monedas = [
     {id: "MXN", nombre:"Peso Mexicano"},
     {id: "EUR", nombre:"Euro"},
     {id: "GBP", nombre:"Libra esterlina"},
+    {id: "UYU", nombre:"Peso Uruguayo"},
+    {id: "CLP", nombre:"Peso Chileno"},
+    {id: "ARS", nombre:"Peso Argentino"},
+    
 ]
 
 export {
